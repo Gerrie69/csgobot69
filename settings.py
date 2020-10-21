@@ -1,1 +1,1 @@
-EXTENSIONS = ()
+EXTENSIONS = ('features.match',)
