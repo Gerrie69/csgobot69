@@ -1,5 +1,6 @@
 from discord.ext import commands
 
+from backend.web import get_matches_page
 from secrets import PRIVATE_KEY
 from settings import EXTENSIONS
 
