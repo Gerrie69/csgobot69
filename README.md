@@ -1,1 +1,4 @@
-Hey, this is a new project! :D
+Hey,
+
+This is a discord bot, designed for CS:GO :)
+Enjoy!
